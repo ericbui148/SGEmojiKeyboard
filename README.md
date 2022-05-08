@@ -6,7 +6,7 @@ An alternate keyboard for iOS that lets you display all the emojis supported by 
 Additions that need to be done:
 
 1. Stickers
-2. Custom emojis (different font)
+2. Custom emojis
 ![Example Preview](keyboard.jpg)
 
 ## Example Project
