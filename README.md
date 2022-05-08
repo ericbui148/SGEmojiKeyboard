@@ -7,6 +7,7 @@ Additions that need to be done:
 
 1. Stickers
 2. Custom emojis (different font)
+![Example Preview](keyboard.png)
 
 ## Example Project
 
@@ -21,7 +22,7 @@ To run the example project:
 
 1. Use your own `ViewController` (optionally) to conform to [SGEmojiKeyboardViewDataSource][SGEmojiKeyboardViewDataSource] 
 and [SGEmojiKeyboardViewDelegate][SGEmojiKeyboardViewDelegate] protocol.
-2. Create an instance of [SGEmojiKeyboardView][AGEmojiKeyboardView] and set it as your `textView`'s `inputView`.
+2. Create an instance of [SGEmojiKeyboardView][SGEmojiKeyboardView] and set it as your `textView`'s `inputView`.
 
 ```objective-c
   CGRect keyboardRect = CGRectMake(0, 0, self.view.frame.size.width, 216);
