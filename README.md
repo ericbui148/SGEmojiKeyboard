@@ -13,8 +13,8 @@ Additions that need to be done:
 To run the example project:
 
 1. Clone the repo to a local folder.
-2. Run `pod install` from the [Example][Example] directory.
-3. Open `AGEmojiKeyboardSample.xcworkspace` placed in [Example][Example] folder.
+2. Run `pod install` from the directory.
+3. Open `SGEmojiKeyboardSample.xcworkspace` placed in folder.
 4. Run.
 
 ## Usage
