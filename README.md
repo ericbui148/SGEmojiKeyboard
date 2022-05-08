@@ -1,7 +1,7 @@
 # SGEmojiKeyboard
 ==================
 
-An alternate keyboard for iOS that lets you display all the emojis supported by iOS. This component base from ayushgoel/AGEmojiKeyboard
+An alternate keyboard for iOS that lets you display all the emojis supported by iOS. This package base from ayushgoel/AGEmojiKeyboard
 
 Additions that need to be done:
 
