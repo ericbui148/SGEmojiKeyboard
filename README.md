@@ -38,5 +38,4 @@ ERIC B, bthiep148@gmail.com
 
 ## License
 
-SGEmojiKeyboard is available under the MIT license. See the [LICENSE][LICENSE] file for more info.
-
+SGEmojiKeyboard is available under the MIT license
