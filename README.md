@@ -7,7 +7,7 @@ Additions that need to be done:
 
 1. Stickers
 2. Custom emojis (different font)
-![Example Preview](keyboard.png)
+![Example Preview](keyboard.jpg)
 
 ## Example Project
 
